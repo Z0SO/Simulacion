@@ -1,5 +1,21 @@
 
 
+
+## Temas Principales
+
+- **SYSACAD y SYSAMDIN**: Estos sistemas no se modificarán.
+- **Forma de Pago**: El pago y el cobro se realizarán en efectivo.
+
+## Posibles Escenarios
+
+Los posibles escenarios sobre el pago y la cursada pueden generar las siguientes preguntas:
+
+### Preguntas Posibles
+
+1. **Inhabilitación vs Suspensión**: ¿Cuál es la diferencia?
+2. **Funcionamiento del Pago**: ¿Cómo funciona cada parte del tema del pago?
+
+
 ---
 
 ## **INFORME – PRIMERA ENTREVISTA**
